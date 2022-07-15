@@ -1,0 +1,37 @@
+由于页面标题可能含有特殊字符导致异常，所以markdown文件的命名均为英文（md5串），以下是页面标题和文件的对应关系：
+
+目录 —— prefix_b3d906fa69af026db8f146948540dc4d.md
+业务赋能 —— prefix_c5d5a9b8f6a33e6bcdfde164efbd4afa.md
+业务赋能-无效线索 —— prefix_69aff11f14644cf53fd32b76c6019ab5.md
+线索来访来源分布 —— prefix_119a30428485173d59abba0e77f30372.md
+经纪人成交排名 —— prefix_8bbc92eca8529db12416967cb49180ab.md
+项目成交排名 —— prefix_fe347aac1abc54d64ce0c3a7faa36bab.md
+签约状态分布 —— prefix_0f51a9e0d58362f2282ce4702d4e63dc.md
+线索签约来源分布 —— prefix_f2c6613e9b61b2872dcf65f9a0c3c7b5.md
+线索状态分布 —— prefix_e1069bbb1362bcf72faf772042ca6b67.md
+线索流失经纪人排行 —— prefix_3eadbf3b02f3e9932c05fe535cf20fe2.md
+线索流失项目排行 —— prefix_f11b62a1293e7b5550c801efe64e9863.md
+线索来源分布 —— prefix_6a4471f0876f3d3fe9ed5c71c648f761.md
+经纪人来访排行 —— prefix_a9a3e2408c9bfeba22117d69c1b9f29b.md
+项目来访排行 —— prefix_c31e8bede65428abd0a3d40271674193.md
+线索次数 —— prefix_4817d60576ceda8d61f1e9a59fa2aacb.md
+线索有效跟进次数 —— prefix_a4495c4098dbfd1eddf53f9b97f34445.md
+线索跟进次数 —— prefix_7f921f5a9f0044e5544c35e00a4e77e9.md
+人为无效跟进人次 —— prefix_e4a2e9c6ed308f33fddd3544585a06e5.md
+系统无效跟进人次 —— prefix_8b4961d017e21b58890aea68200d50dc.md
+线索来访人数 —— prefix_c743ab7d756d428b1f4717f043d4d068.md
+来访线索人数 —— prefix_bc5c2e52b949edd49c9cbe0fc1344ae4.md
+签约线索人数 —— prefix_666aba2616771580e740fe0aab8a926b.md
+流失线索人数 —— prefix_010ed5fe69b92292f9f7e30998ecce11.md
+线索转签人数 —— prefix_673365ff49b003d4cb298f48d75e3674.md
+线索跟进率 —— prefix_3a250987d932fe88682b995db9d70b4b.md
+线索来访率 —— prefix_ff0d104adbdcd74b227e70a4b70ea991.md
+签约率 —— prefix_4a947297c5a9abcd9f877f2121e8d7c4.md
+来访签约率 —— prefix_335e6308d792ef4b3ee3326a8ccb4601.md
+回收率 —— prefix_476c46edadf94364e04ece1dca7cb271.md
+线索与来访趋势-线索量 —— prefix_8505cef17a503b10d2bbc8369856b096.md
+线索与来访趋势-来访量 —— prefix_b45ac4f62716ccd84eb96dd80decf205.md
+线索与跟进趋势-跟进量 —— prefix_56359e63987ab66112b40da61a4d39dc.md
+线索与跟进趋势-线索量 —— prefix_7972c65b7f5d1ba8be65e1dadb1e1f24.md
+客户意向决定性指标 —— prefix_ecc8f19c1d85b053fd7459dbf92d294f.md
+客户意向一般性指标 —— prefix_260d3f57c72edf376f78164e2967934b.md
